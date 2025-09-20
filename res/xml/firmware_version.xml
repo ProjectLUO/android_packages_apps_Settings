@@ -24,7 +24,7 @@
     <!-- DerpFest logo -->
     <com.android.settingslib.widget.LayoutPreference
         android:key="derp_logo"
-        android:layout="@layout/derp_logo"
+        android:layout="@layout/lineage_logo"
         android:selectable="false"/>
 
     <!-- Android version -->
