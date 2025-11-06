@@ -206,7 +206,7 @@
     <string name="battery_voltage_not_available" translatable="false">@string/battery_cycle_count_not_available</string>
 
     <!-- Battery Info: Charge Counter -->
-    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_charge_counter_summary"></string>
 
     <!-- Battery Info: Design Capacity -->
     <string name="battery_design_capacity">Design capacity</string>
